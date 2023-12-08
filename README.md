@@ -134,7 +134,8 @@ One of the major challenges I faced was ensuring that the snake's body moved sea
 ## Example Runs
 Explain how you documented running the project, and what we need to look for in your repository (text output from the project, small videos, links to videos on youtube of you running it, etc)
 
-![image-20231208182332855](/Users/kayla/Library/Application Support/typora-user-images/image-20231208182332855.png)
+![image](https://github.com/kaylajng/SnakeGame/assets/122589629/5f06b24f-e4bf-4089-996c-f1eaf05ff524)
+
 
 ## Testing
 
